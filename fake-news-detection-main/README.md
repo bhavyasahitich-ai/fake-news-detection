@@ -107,7 +107,7 @@ expo start
 
 ## 👨‍💻 Author
 
-Surya  
+Bhavya
 B.Tech Computer Science and Engineering  
 
 ---
